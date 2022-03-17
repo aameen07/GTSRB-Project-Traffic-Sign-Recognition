@@ -6,6 +6,7 @@ We used NumPy, Pandas, OS, Matplotlib, Seaborn, PIL, Tensorflow, Keras, Python, 
 
 How to run the code:
 First you need to download the GTSRB dataset from this link: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
 Secondly, you can upload this dataset to you Google drive.
 Thirdly, after your drive has been mounted in the code mention the correct path in your drive for the image.
 Now, the code should run smoothly.
